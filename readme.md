@@ -1,6 +1,6 @@
-# Helion
+# "Rise of the Vectorised"
 
-4Helion is a science fantasy adventure story set in the very far future.
+"Rise of the Vectorised" is a science fantasy adventure story set in the very far future.
 
 Enemies from an unknown domain triggers countless alarms throughout the galaxy. Dozens of colonies were raided, death following in its wake. A ruthless brawl broke out both on land and in space. And in a failed attempt to save his parents, Corbin was stranded on a remote planet, severely injured from a devastating blast to his drone.
 
