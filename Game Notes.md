@@ -20,54 +20,27 @@
 
 # Domains
 
-- ## Itira
-  Domain of Energy
-  - Race: Itira
-  ### Nodes
-  - Spires
-  - Royal House
-  - Gauntlets
-  ### Syndicates
-  - House Korsua
-- ## Galaxia
-  Domain of Humanity
-  - Race: Humanity
-  ### Nodes
-  - Origin System
-  - Asterra
-- ## Nakta
-  Domain of Ground
-  - Race: Nakta
-  - Nodes:
-- ## Sefa
-  Domain of Stone
-- ## Helgama
-  Domain of Fire
-- ## Endora
-  Domain of Wisdom
-- ## Luenia
-  Domain of Light
-- ## Klypsa
-  Domain of Shadow
-- ## Atala
-  Domain of Water
-- ## Forvalia
-  Domain of Ice
-- ## Sylva
-  Domain of Sky
-- ## Nyrphia
-  Domain of Poison
-- ## Corunda
-  Domain of Nature
-- ## Zuroa
-  Domain of Metal
-- ## Cosmos
-- ## Void
-- ## Rift
+- **Itira** / Domain of Energy
+- **Galaxia** / Domain of Humanity
+- **Nakta** / Domain of Ground
+- **Sefa** / Domain of Stone
+- **Helgama** / Domain of Fire
+- **Endora** / Domain of Wisdom
+- **Luenia** / Domain of Light
+- **Klypsa** / Domain of Shadow
+- **Atala** / Domain of Water
+- **Forvalia** / Domain of Ice
+- **Sylva** / Domain of Sky
+- **Nyrphia** / Domain of Poison
+- **Corunda** / Domain of Nature
+- **Zuroa** / Domain of Metal
+- Cosmos
+- Void
+- Rift
 
 # Game Notes
 
-_Rise of the Void: the Game_ is a science fantasy-themed TPS (third-person shooter) action-adventure RPG (role-playing game) blending elements from games like Warframe, Final Fantasy, Destiny, Apex Legends, Titanfall and Doom: Eternal.
+_Rise of the Void_ is a far-future fantasy-themed action-adventure role-playing shooter, blending elements from games like Destiny, Halo, Warframe, Final Fantasy and Doom Eternal.
 
 ## Quests
 
@@ -105,21 +78,20 @@ Side quests are optional.
   - Call of the Luminary
   - Parallel Realm
   - Sanctum's Deep
-  - Origins
   - Training for Greatness
   - Eternal Quest
-- **Prelude to War**
+- **Echoes of the Cosmos**
   - Mavron
   - House Korsua
-  - Rising Tide
+  - The Concord of the Cosmos
   - Final Training
   - The Hunt Begins
-  - Unlikely Friendship
-  - Prelude to War
+  - Unlikely Friends
+  - Prologue to the Final War
     - Omegron, the Fallen
     - Mavron's Sacrifice
   - Switching Sides
-- **New War**
+- **The Final War**
   - For Our Kind
   - The Concord
   - Mavron's Betrayal
@@ -135,33 +107,6 @@ Side quests are optional.
   - Tripartite Alliance (Nakta, Atala, Itira)
   - Zuroa
   - Void
-
-## Missions
-
-Missions are secondary to the game, unlike Warframe. Here, up to five players can participate in the same missions as a Team, and upon completing objectives, exit the mission. Most of these missions are primarily PvE.
-
-Each mission has a specific pre-assigned objective, although secondary objectives or a change of objective may occur during the mission. A lot of these missions are based on Warframe, however with very notable differences, e.g. called differently.
-
-### PVE
-
-#### Standard
-
-- **Bossfight**: Defeat a boss.
-- **Exterminate**: Kill a predetermined number of enemies placed across the map.
-- **Rescue**: Guide an ally to the exit, without triggering alarms or alerting enemies.
-- **Sabotage**: Infiltrate the enemy base, and cripple their operation by striking at vulnerable points.
-- **Abduct**: Capture and abduct targets who would try to escape.
-- **Defend (Multiple)**: Defend targets across multiple locations, one at a time. The number of targets will vary.
-- **Defend (Mobile)**: Defend and guide a moving target to the exit.
-- **Eavesdrop**: Find intelligence inside enemy territory without being detected either by enemies or traps.
-
-#### Endless
-
-The longer the mission, the harder the enemies become.
-
-- **Capture**: Capture a number of relay points while defending against an enemy. (De)buffs may be applied to either side.
-- **Survive**: A timed mission. Collect orbs around the map or dropped by enemies to add seconds to the timer. Once time runs out, it's too late.
-- **Defend (Stationary)** : Defend a stationary target; every 5 waves you can choose to finish the mission or continue fighting for a max of 30 waves.
 
 #### Special
 
@@ -215,7 +160,7 @@ Several gates require quests to be completed in order for it to be unlocked. Add
 17. **Corunda** → _Sylva_
 18. **Klypsa** → _Void_
 19. **Nyrphia** → _Zuroa_
-20. **Zuroa** → _Endora_ \_
+20. **Zuroa** → _Endora_
 
 ## XP and Ranks
 
@@ -268,27 +213,9 @@ In order to be promoted to the next rank, a player must fulfil a **desired set o
 
 ## Damage
 
-- Physical Damage:
-  - **Impact**: Target flinches and is staggered for 2s.
-  - **Puncture**: Reduces damage dealt by 30% for 5s.
-  - **Slash**: Deals 40%/s true damage for 5s.
-- Elemental: Each has a 50% bonus damage chance to the next, so Pyro has a 150% damage chance against Cryo, Cryo to Anemo and so on.
-  - **Fire**: For 5s, armor is drained by 50% and damaged by 10%/s over 5s.
-  - **Ice**: Targets are slowed by up to 80%.
-  - **Wind**: Suspends light enemies in the air, while knocking back heavy enemies a short distance.
-  - **Ground**: Staggers enemies for a single second, while halving defense and damage output by enemies for 5 seconds.
-  - **Electric**: Stuns the target for 0.5s, chaining to all enemies within close range.
-  - **Water**: Damage to health over time, starting from 10% base damage which accelerates by 10%/s² for 5s.
-- Magical - used only by Level 3 or higher players or enemies.
-  - **Light**: 50%/s additional damage to both shields and health for 5s, with a 25% chance of blinding nearby targets.
-  - **Dark**: All enemies within a 3m radius receive 50% the same damage and status effects inflicted on the target, for 5s.
-- **True**: Damage is dealt as is.
-
-## Syndicates/Factions
-
-| Syndicate | Allied | Opposed | Enemy |
-| --------- | ------ | ------- | ----- |
-| Itira     | Nakta  | Helgama | Atala |
+- Physical Damage
+- Elemental/Magic Damage
+- True Damage
 
 ## Skins
 
@@ -298,18 +225,7 @@ In order to be promoted to the next rank, a player must fulfil a **desired set o
 
 ### Atala
 
-- Lancer
-- Shield Lancer
-- Trooper
-- Knight
-- Paladin
-
 ### Blight
-
-- Walker (Electric, Nauseous, Toxic): Leaper, Runner, Rammer, Charger, Thrasher, Flyer, Crawler, Changeling, Ancient
-- Heavy Units: (Elder) Disruptor/Healer/Ravager/Juggernaut, Boiler, Lurker, Roach/Leach/Maggot (Host)
-- Proxies: Blighted Thrall, Paladin, Warlock, Soldier, Vampyre, Trooper, Crewman, Lancer, Sentry, Turret, Attack Drone, Maw, Viper
-- Pods: Infested Growth, Tendril Drone
 
 ## Warframe
 
