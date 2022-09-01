@@ -30,15 +30,10 @@ As Corbin wakes up, he discovers that same mysterious figure, who reveals himsel
 
 The original idea for this universe sparked in June 2019 when I was still a college freshman and info-tech student. I've been writing short stories and essays, but never before did I thought of writing a book. Then I watched a RossDraws video on YouTube, and so felt more compelled to create my own fictional universe, falling in live with worldbuilding and character design.
 
-To me, all this served as an escape from the constant skirmishes and bitter events I faced at school, work and most importantly, with family. And then a character idea came to mind when 
-
-
-
-Emotionally riven by night terrors and horrors I created a self-insert, one which had the rather absurd-at-first power of controlling and manifesting his dreams into his surroundings. I then discussed the story with Dad, and since we had a mutual love for space and sci-fi, we settled on such. I was binge-watching countless space documentaries and short films on YouTube to find inspiration for future characters and stories, which I did during my remaining time at college... besides saving thousands of fan-art on my phone through Twitter.
+To me, all this served as an escape from the constant skirmishes and bitter events I faced at school, work and most importantly, with family. And then a character idea came to mind: one with the power of controlling and manifesting his dreams into his surroundings. I then discussed the story with Dad, and since we had a mutual love for space and sci-fi, we settled on such. I was binge-watching countless space documentaries and short films on YouTube to find inspiration for future characters and stories, which I did during my remaining time at college... besides saving thousands of fan-art on my phone through Twitter.
 
 As the months grew into years we continually pitched ideas for our story. Dad wrote the key points while I imagined the characters and the plot in my head, and then even drawing them on paper with his supervision. I initially thought of writing a book or novel, drafting a plot for good measure, but even though the story was left incomplete, it would only forever remain in my heart and remind me of all the great memories I had with him.
 
 My universe, Helion, as it was called back then, was one of the few things that allowed me to both escape from my problems and get out of my comfort zone. I'm still fighting through my innermost conflicts and fears as I try to find a place of peace and belonging in a world of chaos and uncertainty; in perhaps one of the most dreaded and unforeseen phases of my own life.
 
 ---
-
