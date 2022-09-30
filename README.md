@@ -1,6 +1,6 @@
 # Rise of the Void
 
-![Rise of the Void Banner](https://raw.githubusercontent.com/nxltm/rotv/main/Twitter%20Banner.svg)
+![Rise of the Void Banner](https://raw.githubusercontent.com/nxltm/rotv/main/Twitter%20Banner.png)
 
 **Rise of the Void** is a four-part far-future fantasy adventure novel. Leaving their old past behind, a close-knit group of five powerful heroes from across the stars band together to fight off an endless, ancient evil force that once brought the universe to ruin.
 
