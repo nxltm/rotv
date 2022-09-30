@@ -1,6 +1,6 @@
 # Rise of the Void
 
-![Rise of the Void Banner](https://raw.githubusercontent.com/nxltm/rotv/main/Twitter%20Banner.png)
+![Rise of the Void Banner](https://raw.githubusercontent.com/nxltm/rotv/main/ROTV%20Banner.png)
 
 **Rise of the Void** is a four-part far-future fantasy adventure novel. Leaving their old past behind, a close-knit group of five powerful heroes from across the stars band together to fight off an endless, ancient evil force that once brought the universe to ruin.
 
@@ -99,3 +99,17 @@ Now far away from Primordial status and clad in a rare metal armor, he befriende
 Having been saved by Elios himself after being subjugated by the Void in his previous life, Drax, now scarred and diminished into his lowest form, befriends him and soon joins Corbin on his quest.
 
 His true form may be revealed only when necessary to become larger than a star, overwhelming his foes with valiant strength and an all-consuming fire.
+
+---
+
+## Thanks
+
+To those here, thank you for checking out my book and giving it a read. I hope you enjoyed
+
+This project is dedicated to Dad who always helped me expand my imagination and gifted me things even though I often take them for granted. I also express my gratitude to him for supporting me throughout the years as I am writing this story during one of the most foreboding phases of my personal life.
+
+And to those who showed if not the same support to and constantly believed in me: @YuneShiun, @Emogakuu, @Astrodart, @DaftMindless, @ArtdipityX and many others, if not just chatting about life or the what we loved to do.
+
+This book would never have been created if not for hours of both of us fantasizing and brainstorming ideas together and always believing in me even through the storm.
+
+God bless.
