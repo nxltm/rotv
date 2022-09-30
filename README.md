@@ -10,25 +10,21 @@
 
 ## About
 
-Hi. My name is Frime. I'm a self-taught developer and former IT student, who also likes to write, and is also learning digital art on the side.
+Hello there.
 
-And welcome, my dear sojourners, to the _Helion_ universe,my science-fantasy saga set in dozens of vibrant yet strange new worlds.
+My (nick)name is Frime. And I'm a self-taught web developer and IT student who _also_ likes to write. And welcome to the **Helion** universe, my far-future fantasy saga set in dozens of strange new worlds.
 
-I started writing around the final year of polytechnic and kept it up all the way past graduation and into the army. Since graduation, I've made new online friends who were keen and open to help me out, be it entertaining strange questions at ungodly hours of the night, or just correcting me on something I can't get right.
+I started writing this story since June 2019, and kept it up all the way past the pandemic, graduation and even the army. This has evolved into an actual life goal, which si to one day publish this as an online series, both online and in print, and eventually, a webcomic.
 
-I originally created this story back when I was in polytechnic, but over the years and through the pandemic, this has evolved into an actual life goal, which is to one day publish this as a novel series both online and in print, and eventually, a webcomic.
+Since the beginning of this year, I've made new online friends who were keen and open to help me out, be it entertaining strange questions even at ungodly hours of the night, or just correcting me if I can't express something right.
 
-My working title, _Rise of the Void_ is the main storyline. There have been many story ideas I've developed over the years, and even before I made Helion. But for now, this is the main focus, and is the first step in introducing the _Helion-verse_ to the world.
+Corbin's story, Rise of the Void, is the main storyline and what I will be focusing on from here on out. There have been many story ideas I've developed since childhood, even before I made this universe.
 
-The story combines all my childhood and teenage influences, and I want to inject every bit of life from the grand adventures I experienced as a kid into my own personal world. I drew a lot from video games like Warframe, StarCraft, Destiny and League of Legends, franchises like Doom and Final Fantasy, and novels like Dune and Foundation.
+I want to inject every bit of vivid memories from the grand adventures I experienced since childhood into this personal world. I drew a lot of inspiration from novels like Foundation and Dune, video games like Warframe, Destiny and League of Legends, and franchises like Doom, Final Fantasy and the Marvel cinematic universe.
 
-I guess I write when I feel like there is an issue which should be discussed that I can put into a different perspective through a fictional world with fictional circumstances.
+This repository serves as a place to keep all my draft manuscripts about my universe, all written in Markdown. I mostly edit from my phone with either IA Writer and JotterPad, and [Visual Studio Code](https://code.visualstudio.com) on my desktop.
 
-I'm hopeful that I'd be able to do all this while I am serving in the army. I write this mostly on my phone using <!-- a cracked version of --> JotterPad or IA Writer, especially since I'm outside a lot, and if I'm at home, [Visual Studio Code](https://code.visualstudio.com).
-
-This repository serves as a place to keep all my draft manuscripts and notes written since 2020 when I all of my notes in Markdown. I use Markdown when writing, especially when editing from multiple devices.
-
-The final manuscript will not be stored here, only the WIPs.
+Only the final manuscript will not be stored here.
 
 ## Resources and Inspiration
 
@@ -48,7 +44,7 @@ The idea for this universe started out about four years ago, when I was still in
 
 Around June that year, I watched a RossDraws video on YouTube. Right there and then, I felt compelled to create my own fictional world; a chance to curate such a vivid, imaginary place as an escape from reality and when life generally went tough, especially right during the pandemic...besides jumping from platform to platform and consuming content while alone at home.
 
-One day dad and I were discussing our favorite childhood shows and films, including One Punch Man, I proposed to him about this weird character idea I had. We settled on a sci-fi universe since we both liked StarCraft; Dad had finished both games when I was still a kid.
+One day, Dad and I were discussing our favorite childhood shows and films, including One Punch Man, I proposed to him about this weird character idea I had. We settled on a sci-fi universe since we both liked StarCraft; Dad had finished both games when I was still a kid.
 
 Eventually we started discussing and brainstorming more and more, often over coffee while playing Pokémon Go, and the highlight definitely wasn't the triple-shot of Chocolate Ice-Blended Frappe I always ordered at Starbucks, even during my internship mentoring sessions at my final year of polytechnic.
 
@@ -74,15 +70,15 @@ She was revived by the spirit of a neutron star when the galaxy's wars began, bu
 
 After being rescued by Corbin, a weakened Diana struggles to gain back her powers, while trying to forgive those that once called her a sadist, tyrant or monster. She remains in a state of limbo from her corruption, but she swears on her life to never be corrupted ever again.
 
-### Zaianíra raë-Korsúa
+### Zaianira raë-Korsua
 
-**_Zaia (age 18tn.)_:** A teenage "neon rogue" living on the edge. She's rebellious, reckless and ruthless, constantly pushing herself to the limit and putting herself in danger, in a chaotic universe where death is at her doorstep.
+**_Zaia (age 1.8tn.)_:** A teenage "neon rogue" living on the edge. She's rebellious, reckless and ruthless, constantly pushing herself to the limit and putting herself in danger, if not just to protect those who she trusts.
 
 Born as a royal in her kingdom of Itira, Zaia was raised early on to be a warrior princess, training night and day with her parents in preparation for her rite of passage.
 
 However, after barely surviving a war waged on Earth, a new surrogate body was made for her, an amalgamation of engineered proto-human flesh and alien cybernetic implants. With this new body, she could reach unparalleled speeds, adapt to any environment, and can face entire swathes of enemies with ease.
 
-Yet, parts of her remained permanently damaged, resulting in her wildly unpredictable power and persona. Realizing she had committed a grave mistake, she still abandoned her royal title and went her own path, all just to "save her own kind".
+Yet, parts of her remained permanently damaged, resulting in her wildly chaotic power and persona. Despite realizing she had committed a grave mistake, she still abandoned her royal title and went her own path, all just to "save her own kind".
 
 ### Elios sar-Arrakhi
 
@@ -104,12 +100,10 @@ His true form may be revealed only when necessary to become larger than a star, 
 
 ## Thanks
 
-To those here, thank you for checking out my book and giving it a read. I hope you enjoyed
+This project is dedicated to Dad who always helped me expand my imagination and shown his support for me as I am writing this story and serving in the army.
 
-This project is dedicated to Dad who always helped me expand my imagination and gifted me things even though I often take them for granted. I also express my gratitude to him for supporting me throughout the years as I am writing this story during one of the most foreboding phases of my personal life.
+This book would never have been created if not for the times both of us fantasized and brainstormed ideas together, and for always believing in me even through the storm.
 
-And to those who showed if not the same support to and constantly believed in me: @YuneShiun, @Emogakuu, @Astrodart, @DaftMindless, @ArtdipityX and many others, if not just chatting about life or the what we loved to do.
+And to those whom I met online through Discord or my socials, and who constantly believed in me: @ArtdipityX, @YuneShiun, @Astrodart, @DaftMindless, @Emogakuu and many others.
 
-This book would never have been created if not for hours of both of us fantasizing and brainstorming ideas together and always believing in me even through the storm.
-
-God bless.
+God bless, and thank you all.
