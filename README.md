@@ -60,7 +60,7 @@ Now, as I write this story while I serve in the army, I am very thankful to all 
 
 But abandoned on death's door after failing to save his parents, he encounters an ancient, sentient gem that not only heals him, and grants him supernatural abilities.
 
-With this newfound power and determination, he sets out on the univeZaia (age unknown going under 18): An impulsive yet prodigious royal mercenary, forced to abandon her empire after a catastrophic Void attack left her father and brother missing.
+With this newfound power and determination, he sets out on universe's most dangerous quest and encountering ever-stronger foes along the way, all just to redeem his lost family from the evil force that stole them away.
 
 ### Diana Ennia
 
