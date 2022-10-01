@@ -60,7 +60,7 @@ Now, as I write this story while I serve in the army, I am very thankful to all 
 
 But abandoned on death's door after failing to save his parents, he encounters an ancient, sentient gem that not only heals him, and grants him supernatural abilities.
 
-With this newfound power and determination, he sets out on a perilous quest across the universe, as a savior to break the chains that bound his lost family and take on the Void itself, before the universe is once more brought to ruin.
+With this newfound power and determination, he sets out on a perilous quest across the universe as a "savior", breaking the chains that once bound his lost family. His ultimate test awaits: to lead a new war and take on the Void, before the universe is once more brought to ruin.
 
 ### Diana Ennia
 
