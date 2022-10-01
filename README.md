@@ -26,6 +26,10 @@ This repository serves as a place to keep all my draft manuscripts about my univ
 
 Only the final manuscript will not be stored here.
 
+## Resources and Inspiration
+
+I've made several SoundCloud playlists relating to my personal universe which you can check out here:
+
 ---
 
 ## Synopsis
@@ -56,7 +60,7 @@ Now, as I write this story while I serve in the army, I am very thankful to all 
 
 But abandoned on death's door after failing to save his parents, he encounters an ancient, sentient gem that not only heals him, and grants him supernatural abilities.
 
-With this newfound power and determination, he sets out on the universe's most dangerous quest and encountering ever-stronger foes, all just to save his family from
+With this newfound power and determination, he sets out on the univeZaia (age unknown going under 18): An impulsive yet prodigious royal mercenary, forced to abandon her empire after a catastrophic Void attack left her father and brother missing.
 
 ### Diana Ennia
 
@@ -68,13 +72,13 @@ After being rescued by Corbin, a weakened Diana struggles to gain back her power
 
 ### Zaia Korsua
 
-**Zaia (age unknown going under 18):** A prodigious yet impulsive teenage royal mercenary, Zaia Korsua, hailing from an prosperous yet volatile empire, lives "on the edge" in an effort to prove worthy for her throne.
+**Zaia (age unknown going under 18)**: A prodigious yet impulsive teenage royal mercenary, forced to abandon her empire after a Void attack left her father and brother killed during the Old War.
 
-But having barely survived a deadly battle after defeating entire swathes of Voidspawn on her own during the Old War, she was placed in a new surrogate body: an amalgam of engineered proto-human flesh and alien cybernetic augments.
+Having barely survived after slaying entire swathes of Voidspawn on her own, she placed herself in a surrogate body: an amalgam of engineered proto-human flesh, and alien cybernetic augments.
 
-With her new body, she could reach unparalleled speeds, adapt to any environment, and can face countless enemies without fatigue. Yet, parts of her conscience remained permanently damaged, resulting in her wildly chaotic powers and persona.
+With her new body, she could reach unparalleled strength and speeds, adapt better to any environment, and can face countless enemies without fatigue. Yet, her conscience remained permanently damaged, resulting in her wildly chaotic persona, much less her abilities.
 
-Now, leaving her royal title behind, she goes on her own path to seek a greater calling.
+Forever livid with rage on her adversaries, she now travels alone, ready to strike from all angles. For she knows only one thing: violence is the only answer.
 
 ### Elios sar-Arrakhi
 
