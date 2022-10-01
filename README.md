@@ -30,7 +30,7 @@ Only the final manuscript will not be stored here.
 
 I've made several SoundCloud playlists relating to my personal universe which you can check out here:
 
----
+\*\*
 
 ## Synopsis
 
@@ -56,7 +56,7 @@ Now, as I write this story while I serve in the army, I am very thankful to all 
 
 ### Corbin Knox
 
-**_Corbin (age 19)_:** The fearful but selfless hero, and spiritual leader of the group. Once a dashing recruit with an insatiable hunger for adventure and space battles.
+**Corbin (age 19):** The fearful but selfless hero, and spiritual leader of the group. Once a dashing recruit with an insatiable hunger for adventure and space battles.
 
 But abandoned on death's door after failing to save his parents, he encounters an ancient, sentient gem that not only heals him, and grants him supernatural abilities.
 
@@ -64,33 +64,33 @@ With this newfound power and determination, he sets out on the universe's most d
 
 ### Diana Ennia
 
-**_Diana (age 17)_:** The innocent and naïve childhood friend of Corbin, parting ways on a voyage to a different sector of the galaxy.
+**Diana (age 17):** The innocent and naïve childhood friend of Corbin, parting ways on a voyage to a different sector of the galaxy.
 
 She was revived by the spirit of a neutron star when the galaxy's wars began, but immediately fell to the Void. For almost a century she was rendered both a slave and a weapon, destroying all who would try to suppress her.
 
 After being rescued by Corbin, a weakened Diana struggles to gain back her powers, while trying to forgive those that once called her a sadist, tyrant or monster. She remains in a state of limbo from her corruption, but she swears on her life to never be corrupted ever again.
 
-### Zaianira raë-Korsua
+### Zaia Korsua
 
-**_Zaia (age 1.8tn.)_:** A teenage "neon rogue" living on the edge. She's rebellious, reckless and ruthless, constantly pushing herself to the limit and putting herself in danger, if not just to protect those who she trusts.
+**Zaia (age unknown going under 18):** A prodigious yet impulsive teenage royal mercenary, Zaia Korsua, hailing from an prosperous yet volatile empire, lives "on the edge" in an effort to prove worthy for her throne.
 
-Born as a royal in her kingdom of Itira, Zaia was raised early on to be a warrior princess, training night and day with her parents in preparation for her rite of passage.
+But having barely survived a deadly battle after defeating entire swathes of Voidspawn on her own during the Old War, she was placed in a new surrogate body: an amalgam of engineered proto-human flesh and alien cybernetic augments.
 
-However, after barely surviving a war waged on Earth, a new surrogate body was made for her, an amalgamation of engineered proto-human flesh and alien cybernetic implants. With this new body, she could reach unparalleled speeds, adapt to any environment, and can face entire swathes of enemies with ease.
+With her new body, she could reach unparalleled speeds, adapt to any environment, and can face countless enemies without fatigue. Yet, parts of her conscience remained permanently damaged, resulting in her wildly chaotic powers and persona.
 
-Yet, parts of her remained permanently damaged, resulting in her wildly chaotic power and persona. Despite realizing she had committed a grave mistake, she still abandoned her royal title and went her own path, all just to "save her own kind".
+Now, leaving her royal title behind, she goes on her own path to seek a greater calling.
 
 ### Elios sar-Arrakhi
 
-**_Elios (age 4tn.)_:** The stoic mediator of the team. Speaks through visions, plans their next move and all the odds that could befall them. Taps into the minds and consciousness of his foes, enthralling them to his will.
+**Elios (age 4tn.):** The stoic mediator of the team. Speaks through visions, plans their next move and all the odds that could befall them. Taps into the minds and consciousness of his foes, enthralling them to his will.
 
 He reveals that he was the last member of an ancient cosmic peacekeeping order dubbed the Conclave, tasked upon themselves to purge any Void evil before it overtakes anyone.
 
-Now far away from Primordial status and clad in a rare metal armor, he befriended Drax. Together they travel the universe, training and conditioning battle-hungry Drax to know when and where to strike.
+Far away from Primordial status and clad in a rare metal armor, he befriended Drax after saving him, after he was on the verge of Void corruption. Now, together, they travel the universe, as Elros trained and conditioned battle-hungry Drax to know when and where to strike.
 
 ### Draxamâthron
 
-**_Drax (age 4.0m.)_:**, an infernal dragon born from a core of a dying star, graces the vast emptiness of the cosmos, all to protect his own kind from the Void.
+**Drax (age 4.0m.):** , an infernal dragon born from a core of a dying star, graces the vast emptiness of the cosmos, all to protect his own kind from the Void.
 
 Having been saved by Elios himself after being subjugated by the Void in his previous life, Drax, now scarred and diminished into his lowest form, befriends him and soon joins Corbin on his quest.
 
