@@ -26,11 +26,7 @@ This repository serves as a place to keep all my draft manuscripts about my univ
 
 Only the final manuscript will not be stored here.
 
-## Resources and Inspiration
-
-I've made several SoundCloud playlists relating to my personal universe which you can check out here:
-
-\*\*
+---
 
 ## Synopsis
 
