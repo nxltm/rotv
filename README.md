@@ -2,33 +2,23 @@
 
 ![Rise of the Void Banner](https://raw.githubusercontent.com/nxltm/rotv/main/ROTV%20Banner.png)
 
-**Rise of the Void** is a four-part far-future fantasy adventure novel. Leaving their old past behind, a close-knit group of five powerful heroes from across the stars band together to fight off an endless, ancient evil force that once brought the universe to ruin.
+**Rise of the Void** is a young adult science-fantasy adventure saga. Leaving their old past behind, a close-knit group of five powerful heroes from across the stars band together to fight off an endless, ancient evil force that once brought the universe to ruin.
 
-> This banner features Zaia drawn by [Astrodart](https://twitter.com/astrodid) on Twitter!
+> This banner features Zaia drawn by [Astrodart](https://twitter.com/astrodid)!
 
 ---
 
 ## About
 
-Hello there.
+Hello there. My name is Noel, also known as Frime online. And I'm a self taught web developer and IT graduate, writing, coding, and drawing during my free time.
 
-My (nick)name is Frime. And I'm a self-taught web developer and IT student who _also_ likes to write. And welcome to the **Helion** universe, my far-future fantasy saga set in dozens of strange new worlds.
+I started developing this story, Rise of the Void, since early 2019. At the time I was watching a YouTube course on character design, and combined with my old writing hobby I started a year prior, even though I didn't read any book yet since childhood. I began penning down some story ideas, and arrived about a superhero character that could manifest his dreams into reality. Dad proposed that we give him a story, settling on a sci-fi universe since we both liked the genre growing up.
 
-I started writing this story since June 2019, and kept it up all the way past the pandemic, graduation and even the army. This has evolved into an actual life goal, which si to one day publish this as an online series, both online and in print, and eventually, a webcomic.
+Dad wrote the ideas to my story while I imagined them in my head and sketched them on paper with his help. We expanded on the story, giving him a diverse cast of companions, usually discussing over coffee. That continued throughout the pandemic, with me watching game trailers, digging through Pinterest, ArtStation and more. Now with my family, relatives, and friends' support, this venture has turned into an an actual life goal, which is to work on my trilogy as I serve in the army.
 
-Since the beginning of this year, I've made new online friends who were keen and open to help me out, be it entertaining strange questions even at ungodly hours of the night, or just correcting me if I can't express something right.
+As I continue on ths venture of mine, I am very thankful to all the people who have supported and helped me thus far, many of whom still continue to do so to this day. But this project wouldn't be possible _at all_ without Dad, who helped me get out of my comfort zone, spark my creativity, and just being awesome.
 
-Corbin's story, Rise of the Void, is the main storyline and what I will be focusing on from here on out. There have been many story ideas I've developed since childhood, even before I made this universe.
-
-I want to inject every bit of vivid memories from the grand adventures I experienced since childhood into this personal world. I drew a lot of inspiration from novels like Foundation and Dune, video games like Warframe, Destiny and League of Legends, and franchises like Doom, Final Fantasy and the Marvel cinematic universe.
-
-This repository serves as a place to keep all my draft manuscripts about my universe, all written in Markdown. I mostly edit from my phone with either IA Writer and JotterPad, and [Visual Studio Code](https://code.visualstudio.com) on my desktop.
-
-Only the final manuscript will not be stored here.
-
-## Resources and Inspiration
-
-I've made several SoundCloud playlists relating to my personal universe which you can check out here:
+This repository serves as the source code of my manuscripts, some dated back years ago. For the most part, I use [Visual Studio Code](https://code.visualstudio.com) to write my novels, and also sometimes with [IA Writer](https://ia.net/writer).
 
 ---
 
@@ -38,25 +28,11 @@ Enemies from an unknown domain triggered countless alarms throughout the galaxy.
 
 In his journey to find and rescue his lost family, he chances upon four strong and powerful heroes from distant parts of the universe, from a young damsel of light to an ancient star dragon. Together, they set out on grand adventures across dozens of strange new worlds, finding the source of the mysterious power that plagued the universe for eons, with the universe and its fate solely on their hands.
 
-## How did it begin?
-
-The idea for this universe started out about four years ago, when I was still in my first year at IT school. I had been writing short stories for about a year since to help me score better in English.
-
-Around June that year, I watched a RossDraws video on YouTube. Right there and then, I felt compelled to create my own fictional world; a chance to curate such a vivid, imaginary place as an escape from reality and when life generally went tough, especially right during the pandemic...besides jumping from platform to platform and consuming content while alone at home.
-
-One day, Dad and I were discussing our favorite childhood shows and films, including One Punch Man, I proposed to him about this weird character idea I had. We settled on a sci-fi universe since we both liked StarCraft; Dad had finished both games when I was still a kid.
-
-Eventually we started discussing and brainstorming more and more, often over coffee while playing Pokémon Go, and the highlight definitely wasn't the triple-shot of Chocolate Ice-Blended Frappe I always ordered at Starbucks, even during my internship mentoring sessions at my final year of polytechnic.
-
-Dad wrote the key points to my story while I imagined the characters in my head and drew them out with his help. I initially thought of writing a book or novel, and sometimes an artbook, and at several points drafted plots and outlines, but while the story perpetually remains incomplete, it would only remain in my heart and remind me of all the great memories I had with him.
-
-Now, as I write this story while I serve in the army, I am very thankful to all the people who have helped and supported me thus far, and still continue to do so to this day. But this project wouldn't be possible at all without Dad who helped me get out of my comfort zone, spark my creativity, and being awesome.
-
 ## Heroes
 
 ### Corbin Knox
 
-**Corbin (age 19):** The fearful but selfless hero, and spiritual leader of the group. Once a dashing recruit with an insatiable hunger for adventure and space battles.
+**Corbin (age 1,960):** The fearful but selfless hero, and spiritual leader of the group. Once a dashing recruit with an insatiable hunger for adventure and space battles.
 
 But abandoned on death's door after failing to save his parents, he encounters an ancient, sentient gem that not only heals him, and grants him supernatural abilities.
 
@@ -64,7 +40,7 @@ With this newfound power and determination, he sets out on a perilous quest acro
 
 ### Diana Ennia
 
-**Diana (age 17):** The innocent and naïve childhood friend of Corbin, parting ways on a voyage to a different sector of the galaxy.
+**Diana (age 1,740):** The innocent and naïve childhood friend of Corbin, parting ways on a voyage to a different sector of the galaxy.
 
 She was revived by the spirit of a neutron star when the galaxy's wars began, but immediately fell to the Void. For almost a century she was rendered both a slave and a weapon, destroying all who would try to suppress her.
 
@@ -72,13 +48,15 @@ After being rescued by Corbin, a weakened Diana struggles to gain back her power
 
 ### Zaia Korsua
 
-**Zaia (age unknown going under 18)**: A prodigious yet impulsive teenage royal mercenary, forced to abandon her empire after a Void attack left her father and brother killed during the Old War.
+**Zaia (age unknown, going under 18):** She was once a royal warrior princess, destined to succeed her kingdom.
 
-Having barely survived after slaying entire swathes of Voidspawn on her own, she placed herself in a surrogate body: an amalgam of engineered proto-human flesh, and alien cybernetic augments.
+But during the Old War, a brutal Void force ravaged her galaxy. A violent coup d'état was led against her royal family, forcing her to stand against the ultimate enemy, herself, in the way of her parents, for her own sake.
 
-With her new body, she could reach unparalleled strength and speeds, adapt better to any environment, and can face countless enemies without fatigue. Yet, her conscience remained permanently damaged, resulting in her wildly chaotic persona, much less her abilities.
+Miraculously, her parents revived her, and she was successfully stored in a new surrogate body, an amalgam of protohuman flesh and alien cybernetics. With her new body, she could reach unbreakable speeds, adapt to any environment and can face countless enemies without fatigue.
 
-Forever livid with rage on her adversaries, she now travels alone, ready to strike from all angles. For she knows only one thing: violence is the only answer.
+Yet she remains permanently corrupted and her memories erased from her affliction with the Void. She, renaming herself as Zaia, now travels the universe alone as a mercenary, loyally serving her allies to defend against the Void during the last few laps of the Old War.
+
+She remains the only Itira to date that ever ventured out of her realm, a realm not known by many. Over time and even after the war she gradually regained her memories of her past life.
 
 ### Elios sar-Arrakhi
 
@@ -86,13 +64,13 @@ Forever livid with rage on her adversaries, she now travels alone, ready to stri
 
 He reveals that he was the last member of an ancient cosmic peacekeeping order dubbed the Conclave, tasked upon themselves to purge any Void evil before it overtakes anyone.
 
-Far away from Primordial status and clad in a rare metal armor, he befriended Drax after saving him, after he was on the verge of Void corruption. Now, together, they travel the universe, as Elros trained and conditioned battle-hungry Drax to know when and where to strike.
+Far away from Primordial status and clad in a rare metal armor, he befriended Amar after saving him, after he was on the verge of Void corruption. Now, together, they travel the universe, as Elios trained and conditioned battle-hungry Amar to know when and where to strike.
 
-### Draxamâthron
+### Amar-athron
 
-**Drax (age 4.0m.):** , an infernal dragon born from a core of a dying star, graces the vast emptiness of the cosmos, all to protect his own kind from the Void.
+**Amar (age 4.0m.):** An infernal dragon born from a core of a dying star, graces the vast emptiness of the cosmos, all to protect his own kind from the Void.
 
-Having been saved by Elios himself after being subjugated by the Void in his previous life, Drax, now scarred and diminished into his lowest form, befriends him and soon joins Corbin on his quest.
+Having been saved by Elios himself after being subjugated by the Void in his previous life, Amar, now scarred and diminished into his lowest form, befriends him and soon joins Corbin on his quest.
 
 His true form may be revealed only when necessary to become larger than a star, overwhelming his foes with valiant strength and an all-consuming fire.
 
@@ -104,6 +82,6 @@ This project is dedicated to Dad who always helped me expand my imagination and 
 
 This book would never have been created if not for the times both of us fantasized and brainstormed ideas together, and for always believing in me even through the storm.
 
-And to those whom I met online through Discord or my socials, and who constantly believed in me: @ArtdipityX, @YuneShiun, @Astrodart, @DaftMindless, @Emogakuu and many others.
+And to those whom I met online through Discord or my socials, and who constantly believed in me: @OnnimArts, @ArtdipityX, @YuneShiun, @Astrodart, @DaftMindless, @Emogakuu and many others.
 
 God bless, and thank you all.
