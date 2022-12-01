@@ -1,8 +1,8 @@
-# Rise of the Void
+# Void:Rising
 
-![Rise of the Void Banner](https://raw.githubusercontent.com/nxltm/rotv/main/ROTV%20Banner.png)
+![Void:Rising Banner](https://raw.githubusercontent.com/nxltm/rotv/main/ROTV%20Banner.png)
 
-**Rise of the Void** is a young adult science-fantasy adventure saga. Leaving their old past behind, a close-knit group of five powerful heroes from across the stars band together to fight off an endless, ancient evil force that once brought the universe to ruin.
+**Rise of the Void**, or _Void:Rising_ is a young adult science-fantasy adventure saga. Leaving his old past behind, Corbin and a close-knit group of five powerful heroes from across the stars band together to fight off an endless, ancient evil force that once brought the universe to ruin.
 
 > This banner features Zaia drawn by [Astrodart](https://twitter.com/astrodid)!
 
@@ -12,7 +12,7 @@
 
 Hello there. My name is Noel, also known as Frime online. And I'm a self taught web developer and IT graduate, writing, coding, and drawing during my free time.
 
-I started developing this story, Rise of the Void, since early 2019. At the time I was watching a YouTube course on character design, and combined with my old writing hobby I started a year prior, even though I didn't read any book yet since childhood. I began penning down some story ideas, and arrived about a superhero character that could manifest his dreams into reality. Dad proposed that we give him a story, settling on a sci-fi universe since we both liked the genre growing up.
+I started developing this story, _Rise of the Void_, since early 2019. At the time I was watching a YouTube course on character design, and combined with my old writing hobby I started a year prior, even though I didn't read any book yet since childhood. I began penning down some story ideas, and arrived about a superhero character that could manifest his dreams into reality. Dad proposed that we give him a story, settling on a sci-fi universe since we both liked the genre growing up.
 
 Dad wrote the ideas to my story while I imagined them in my head and sketched them on paper with his help. We expanded on the story, giving him a diverse cast of companions, usually discussing over coffee. That continued throughout the pandemic, with me watching game trailers, digging through Pinterest, ArtStation and more. Now with my family, relatives, and friends' support, this venture has turned into an an actual life goal, which is to work on my trilogy as I serve in the army.
 
